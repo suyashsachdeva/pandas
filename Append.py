@@ -6,7 +6,7 @@
 import pandas as pd  # Importing the pandas library for data manipulation
 
 # Path to the CSV file. Make sure to provide the correct path to your CSV file.
-link = r'C:\Users\suyash\Desktop\KACHRA\laohub\SmileinPain\zzz...zzz...\Pokemon.csv'
+link = r'PATH'
 
 # Reading the CSV file into a DataFrame
 df = pd.read_csv(link)

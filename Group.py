@@ -2,7 +2,7 @@ import pandas as pd  # Importing pandas for data manipulation
 import re  # Importing regular expressions, though not used in this case
 
 # Path to the CSV file. Update the path to the actual location of your file.
-link = r'C:\Users\suyash\Desktop\KACHRA\laohub\SmileinPain\zzz...zzz...\Pokemon.csv'
+link = r'...\Pokemon.csv'
 
 # Reading the CSV file into a Pandas DataFrame
 df = pd.read_csv(link)

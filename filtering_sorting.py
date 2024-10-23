@@ -7,9 +7,9 @@ import pandas as pd  # Importing pandas for data manipulation
 import numpy as np   # Importing numpy for numerical operations
 
 # File paths for the Pokémon data files. Update these paths to your local file locations.
-link = r'C:\Users\suyash\Desktop\KACHRA\laohub\SmileinPain\zzz...zzz...\Pokemon.csv'
+link = r'...\Pokemon.csv'
 # link1 = r'C:\Users\suyash\Desktop\KACHRA\laohub\SmileinPain\zzz...zzz...\pokemon_data.xlsx'
-link2 = r'C:\Users\suyash\Desktop\KACHRA\laohub\SmileinPain\zzz...zzz...\pokemon_data.txt'
+link2 = r'...\pokemon_data.txt'
 
 # Reading the CSV file into a Pandas DataFrame
 df = pd.read_csv(link)
