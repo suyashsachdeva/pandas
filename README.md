@@ -30,5 +30,4 @@ You will also need a dataset in CSV, Excel, or TXT format. The example in this r
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/username/pandas-pokemon-analysis.git
-   cd pandas-pokemon-analysis
+   pip install pandas
